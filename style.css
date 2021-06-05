@@ -98,7 +98,7 @@ header {
 .about {
     padding: 90px;
     color: white;
-    background: url("/IMGS/background\ imgs/bg1.png") center ;
+    background: url("bg1.png") center ;
     background-size: cover;
 }
 
@@ -186,7 +186,7 @@ header {
              /* 2.class selection */
 
 .clients {
-    background: url("/IMGS/contact us imgs/images.jpg");
+    background: url("images.jpg");
 }
 
 .clients_outerdiv {
@@ -206,7 +206,7 @@ header {
 
 .contact {
     height: 300px;
-    background-image: url("/IMGS/contact us imgs/contact\ background.jpg");
+    background-image: url("contact\ background.jpg");
 }
 .button_div{
   margin: 20px ;

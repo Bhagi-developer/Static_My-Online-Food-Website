@@ -1,0 +1,78 @@
+@media only screen and (max-width: 1110px) {
+
+    /* css for header */
+    header {
+        flex-direction: column;
+        align-items: center;
+    }
+    .navbar ul {
+        flex-wrap: wrap;
+    }
+    .navbar ul li {
+        padding: 0;
+    }
+    .navbar ul li a {
+        margin: 10px;
+    }
+/* ----------------------------------------------------------------------------------------------------- */
+
+    /* css for about */
+    .about{
+        background: url('/IMGS/background\ imgs/bg2.jpg') center;
+        background-size: cover;
+    }
+    .about>div {
+        flex-wrap: wrap;
+    }
+    /* ----------------------------------------------------------------------------------------------------- */
+
+    /* css for services */
+    .services_outerdiv {
+        flex-wrap: wrap;
+        padding: 0px;
+        align-items: center;
+        justify-content: center;
+    }
+    .services_innerdiv {
+        width: 40%;
+        margin: 10px;
+    }
+}
+/* ----------------------------------------------------------------------------------------------------- */
+
+    /* css for clients */
+
+.clients_outerdiv {
+    flex-wrap: wrap;
+}
+/* ----------------------------------------------------------------------------------------------------- */
+
+    /* css for contact */
+
+.contact_outerdiv {
+    flex-wrap: wrap;
+}
+/* ----------------------------------------------------------------------------------------------------- */
+/* ----------------------------------------------------------------------------------------------------- */
+
+@media only screen and (max-width: 650px) {
+    /* css for about */
+    .about {
+        align-items: center;
+        justify-content: center;
+        padding-left: 20px;
+    }
+    /* css for services */
+    .services_innerdiv {
+        width: 100%;
+    }
+    /* css for clients */
+    .clients_innerdiv {
+        padding: 0;
+        margin: 10px;
+    }
+    /* css for contact */
+    .contact {
+        height: 500px;
+    }
+}

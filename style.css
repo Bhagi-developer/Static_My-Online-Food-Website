@@ -1,0 +1,248 @@
+/* css for all components */
+
+* {
+    padding: 0;
+    margin: 0;
+    transition: .2s all;
+    scroll-behavior: smooth;
+}
+/* ----------------------------------------------------------------------------------------------------- */
+
+/* css for general classes */
+
+p {
+    font-family: 'Itim', cursive;
+    font-size: large;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courgette', cursive;
+}
+
+.upper_h1 {
+    font-size: 3rem;
+    padding-bottom: 15px;
+}
+button{
+    background-color: rgb(26, 163, 117);
+    width: 130px;
+}
+/* ----------------------------------------------------------------------------------------------------- */
+
+/* psuedo codes */
+
+.navbar ul li a:hover {
+    color: #8a8787;
+}
+
+.navbar ul li a:active {
+    color: black;
+    background-color: rgb(221, 214, 205);
+}
+/* ----------------------------------------------------------------------------------------------------- */
+
+/* css for header */
+
+             /* 1. tags selection */
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(216 207 192);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+#header_logoimg img {
+    height: 76px;
+    margin: 13px 39px;
+    border-radius: 39px;
+}
+
+.navbar ul {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    list-style: none;
+}
+
+.navbar ul li {
+    padding: 43px;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    padding: 5px;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+             /* 2.class selection */
+
+.navbar {
+    background-color: #8a8787;
+    border-radius: 40px;
+    height: 62px;
+}
+/* ----------------------------------------------------------------------------------------------------- */
+
+/* css for about section */
+
+             /* 1.tag selection  */
+
+.about {
+    padding: 90px;
+    color: white;
+    background: url("/IMGS/background\ imgs/bg1.png") center ;
+    background-size: cover;
+}
+
+.about>div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.about .about_innerdiv img {
+    height: 140px;
+}
+
+.about p {
+    text-align: center;
+    margin-top: 40px;
+}
+
+             /* 2.class selection  */
+
+.about .about_innerdiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 47px;
+}
+/* ----------------------------------------------------------------------------------------------------- */
+
+/* css for services section */
+
+             /* 1.tags selection*/
+
+.services img {
+    height: 135px;
+    width: 61%;
+    margin-bottom: 15px;
+    margin-top: 0;
+}
+
+             /* 2.class selection */
+
+.services {
+    padding-top: 50px;
+}
+
+.services_outerdiv {
+    display: flex;
+    padding: 91px;
+    padding-top: 0;
+}
+
+.services_innerdiv {
+    width: 35%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 40px;
+    margin: 10px;
+    background-color: #b9b4b4;
+    transition-property: all;
+    transition-duration: 1s;
+    
+}
+
+.services_innerdiv:hover {
+    background-color: #e3e1e1;
+    transform: scale(1.025);
+    box-shadow: 10px 10px #606163;
+}
+/* ----------------------------------------------------------------------------------------------------- */
+
+/* css for clients section */
+
+             /* 1.tags selection  */
+
+.clients_innerdiv img {
+    height: 135px;
+    background-color: white;
+}
+
+             /* 2.class selection */
+
+.clients {
+    background: url("/IMGS/contact us imgs/images.jpg");
+}
+
+.clients_outerdiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.clients_innerdiv {
+    padding: 50px;
+}
+/* ----------------------------------------------------------------------------------------------------- */
+
+/* css for contact section */
+
+             /* 1.class selector */
+
+.contact {
+    height: 300px;
+    background-image: url("/IMGS/contact us imgs/contact\ background.jpg");
+}
+.button_div{
+  margin: 20px ;
+    text-align: center;
+
+}
+
+.button_div a{
+ 
+    font-size: large;
+    color: #000;
+    text-decoration: none;
+  
+}
+.contact_outerdiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact_innerdiv {
+    padding: 34px 67px;
+    cursor: pointer;
+}
+
+.contact img{
+    height: 100px;
+}
+/* ----------------------------------------------------------------------------------------------------- */
+
+/* css for footer */
+
+span {
+    display: block;
+    width: 100%;
+    text-align: center;
+    background-color: #606163;
+    color: white;
+}

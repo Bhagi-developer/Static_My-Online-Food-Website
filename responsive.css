@@ -18,7 +18,7 @@
 
     /* css for about */
     .about{
-        background: url('/IMGS/background\ imgs/bg2.jpg') center;
+        background: url('bg2.jpg') center;
         background-size: cover;
     }
     .about>div {

@@ -1,0 +1,287 @@
+{
+  "HEADER": {
+    "MORE": {
+      "TEXT": "更多的"
+    }
+  },
+  "MENUITEMS": {
+    "MENU": {
+      "TEXT": "菜单"
+    },
+    "DASHBOARD": {
+      "TEXT": "仪表板",
+      "BADGE": "新的",
+      "LIST": {
+        "ANALYTICS": "分析",
+        "CRM": "客户关系管理",
+        "ECOMMERCE": "电子商务",
+        "CRYPTO": "加密货币",
+        "PROJECTS": "项目",
+        "NFT": "NFT",
+        "JOB":"工作"
+      }
+    },
+    "APPS": {
+      "TEXT": "应用",
+      "LIST": {
+        "CALENDAR": "日历",
+        "CHAT": "聊天",
+        "EMAIL": "电子邮件",
+        "MAILBOX": "邮箱",
+        "MAILTEMPLATES": "電子郵件模板",
+        "BASICACTION": "基本動作",
+        "ECOMMERCEACTION": "電子商務行動",
+        "ECOMMERCE": "电子商务",
+        "PRODUCTS": "产品",
+        "PRODUCTDETAILS": "产品详情",
+        "CREATEPRODUCT": "创建产品",
+        "ORDERS": "命令",
+        "ORDERDETAILS": "订单详细信息",
+        "CUSTOMERS": "顾客",
+        "SHOPPINGCART": "购物车",
+        "CHECKOUT": "退房",
+        "SELLERS": "卖家",
+        "SELLERDETAILS": "卖家详情",
+        "PROJECTS": "项目",
+        "LIST": "列表",
+        "OVERVIEW": "概述",
+        "CREATEPROJECT": "创建项目",
+        "TASK": "任务",
+        "KANBANBOARD": "看板",
+        "LISTVIEW": "列表显示",
+        "TASKDETAILS": "任务详情",
+        "CRM": "客户关系管理",
+        "CONTACTS": "联系人",
+        "COMPANIES": "公司",
+        "DEALS": "交易",
+        "LEADS": "潜在客户",
+        "CRYPTO": "加密货币",
+        "TRANSACTIONS": "交易",
+        "BUY&SELL": "买卖",
+        "MYWALLET": "我的钱包",
+        "ICOLIST": "ICO列表",
+        "KYCAPPLICATION": "KYC 申请",
+        "INVOICES": "发票",
+        "DETAILS": "细节",
+        "CREATEINVOICE": "创建发票",
+        "SUPPORTTICKETS": "支持票",
+        "TICKETDETAILS": "门票详情",
+        "NFTMARKETPLACE": "NFT 市場",
+        "MARKETPLACE": "市場",
+        "EXPLORENOW": "立即探索",
+        "LIVEAUCTION": "現場拍賣",
+        "ITEMDETAILS": "項目詳情",
+        "COLLECTIONS": "收藏品",
+        "CREATORS": "創作者",
+        "RANKING": "排行",
+        "WALLETCONNECT": "錢包連接",
+        "CREATENFT": "創建 NFT",
+        "FILEMANAGER": "文件管理器",
+        "TODO": "去做",
+        "JOBS":"工作",
+        "STATISTICS":"统计数据",
+        "JOBLISTS":"职位列表",
+        "GRID":"网格",
+        "CANDIDATELISTS":"候选人名单",
+        "GRIDVIEW":"网格视图",
+        "APPLICATION":"应用",
+        "NEWJOB":"新工作",
+        "COMPANIESLIST":"公司名单",
+        "JOBCATEGORIES":"职位类别",
+        "APIKEY":"API密钥"
+      }
+    },
+    "LAYOUTS": {
+      "TEXT": "布局",
+      "LIST": {
+        "HORIZONTAL": "水平的",
+        "DETACHED": "分离式",
+        "TWOCOLUMN": "两列",
+        "HOVERED": "悬停"
+      }
+    },
+    "PAGES": {
+      "TEXT": "页面"
+    },
+    "AUTHENTICATION": {
+      "TEXT": "验证",
+      "LIST": {
+        "BASIC": "基本的",
+        "COVER": "覆盖",
+        "SIGNIN": "登入",
+        "SIGNUP": "报名",
+        "PASSWORDRESET": "重设密码",
+        "PASSWORDCREATE": "密码创建",
+        "LOCKSCREEN": "锁屏",
+        "LOGOUT": "登出",
+        "SUCCESSMESSAGE": "成功讯息",
+        "TWOSTEPVERIFICATION": "两步验证",
+        "ERRORS": "错误",
+        "404BASIC": "404 基本款",
+        "404COVER": "404封面",
+        "404ALT": "第404章",
+        "500": "500",
+        "OFFLINE": "离线页面"
+      }
+    },
+    "PAGES": {
+      "TEXT": "页面",
+      "LIST": {
+        "STARTER": "起动机",
+        "PROFILE": "轮廓",
+        "SIMPLEPAGE": "简单页面",
+        "SETTINGS": "设置",
+        "TEAM": "团队",
+        "TIMELINE": "时间线",
+        "FAQS": "常见问题",
+        "PRICING": "价钱",
+        "GALLERY": "画廊",
+        "MAINTENANCE": "维护",
+        "COMINGSOON": "快来了",
+        "SITEMAP": "网站地图",
+        "SEARCHRESULTS": "搜索结果",
+        "PRIVACYPOLICY":"隐私政策",
+        "TERMS&CONDITIONS":"条款和条件"
+      }
+    },
+    "LANDING": {
+      "TEXT": "降落",
+      "LIST": {
+        "ONEPAGE": "一页",
+        "NFTLANDING": "NFT 登陆",
+        "JOB":"工作"
+      }
+    },
+    "COMPONENTS": {
+      "TEXT": "成分"
+    },
+    "BASEUI": {
+      "TEXT": "基本用户界面",
+      "LIST": {
+        "ALERTS": "警报",
+        "BADGES": "徽章",
+        "BUTTONS": "纽扣",
+        "COLORS": "颜色",
+        "CARDS": "牌",
+        "CAROUSEL": "旋转木马",
+        "DROPDOWNS": "下拉菜单",
+        "GRID": "网格",
+        "IMAGES": "图片",
+        "TABS": "标签",
+        "ACCORDION&COLLAPSE": "手风琴与折叠",
+        "MODALS": "模态",
+        "OFFCANVAS": "画布外",
+        "PLACEHOLDERS": "占位符",
+        "PROGRESS": "进步",
+        "NOTIFICATIONS": "通知",
+        "MEDIAOBJECT": "媒体对象",
+        "EMBEDVIDEO": "嵌入视频",
+        "TYPOGRAPHY": "排版",
+        "LISTS": "列表",
+        "GENERAL": "一般的",
+        "RIBBONS": "丝带",
+        "UTILITIES": "实用程序"
+      }
+    },
+    "ADVANCEUI": {
+      "TEXT": "高级用户界面",
+      "BADGE": "新的",
+      "LIST": {
+        "SWEETALERTS": "甜蜜的警报",
+        "NESTABLELIST": "可嵌套列表",
+        "SCROLLBAR": "滚动条",
+        "ANIMATION": "动画",
+        "TOUR": "旅游",
+        "SWIPERSLIDER": "滑动滑块",
+        "RATTINGS": "收视率",
+        "HIGHLIGHT": "强调",
+        "SCROLLSPY": "滚动间谍"
+      }
+    },
+    "WIDGETS": {
+      "TEXT": "小部件"
+    },
+    "FORMS": {
+      "TEXT": "形式",
+      "LIST": {
+        "BASICELEMENTS": "基本要素",
+        "FORMSELECT": "表格选择",
+        "CHECKBOXS&RADIOS": "复选框和收音机",
+        "PICKERS": "拣货员",
+        "INPUTMASKS": "输入掩码",
+        "ADVANCED": "先进的",
+        "RANGESLIDER": "范围滑块",
+        "VALIDATION": "验证",
+        "WIZARD": "向导",
+        "EDITORS": "编辑",
+        "FILEUPLOADS": "文件上传",
+        "FORMLAYOUTS": "表单布局"
+      }
+    },
+    "TABLES": {
+      "TEXT": "表",
+      "LIST": {
+        "BASICTABLES": "基本表",
+        "GRIDJS": "网格 Js",
+        "LISTJS": "列出 Js",
+        "DATATABLES": "數據表"
+      }
+    },
+    "CHARTS": {
+      "TEXT": "图表",
+      "LIST": {
+        "APEXCHARTS": "顶点图",
+        "LINE": "线",
+        "AREA": "区域",
+        "COLUMN": "柱子",
+        "BAR": "酒吧",
+        "MIXED": "混合",
+        "TIMELINE": "时间线",
+        "CANDLSTICK": "烛台",
+        "BOXPLOT": "箱形图",
+        "BUBBLE": "气泡",
+        "SCATTER": "分散",
+        "HEATMAP": "热图",
+        "TREEMAP": "树状图",
+        "PIE": "馅饼",
+        "RADIALBAR": "径向杆",
+        "RADAR": "雷达",
+        "POLARAREA": "极地",
+        "CHARTJS": "Chartjs",
+        "ECHARTS": "图表"
+      }
+    },
+    "ICONS": {
+      "TEXT": "图标",
+      "LIST": {
+        "REMIX": "混音",
+        "BOXICONS": "方框图标",
+        "MATERIALDESIGN": "材料设计",
+        "LINEAWESOME": "线真棒",
+        "FEATHER": "羽毛",
+        "CRYPTOSVG": "加密 SVG"
+      }
+    },
+    "MAPS": {
+      "TEXT": "地图",
+      "LIST": {
+        "GOOGLE": "谷歌",
+        "VECTOR": "向量",
+        "LEAFLET": "传单"
+      }
+    },
+    "MULTILEVEL": {
+      "TEXT": "多层次",
+      "LIST": {
+        "LEVEL1": {
+          "1": "1.1级",
+          "2": "1.2级",
+          "LEVEL2": {
+            "1": "2.1级",
+            "2": "2.2级"
+          }
+        }
+      }
+    }
+  }
+}

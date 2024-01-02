@@ -1,0 +1,4 @@
+{
+    "baseUrl":"http://localhost:9661/api/",
+    "filebaseUrl":"http://localhost:9661/"
+}

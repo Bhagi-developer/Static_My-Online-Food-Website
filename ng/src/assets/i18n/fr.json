@@ -1,0 +1,287 @@
+{
+  "HEADER": {
+    "MORE": {
+      "TEXT": "Suite"
+    }
+  },
+  "MENUITEMS": {
+    "MENU": {
+      "TEXT": "MENU"
+    },
+    "DASHBOARD": {
+      "TEXT": "Tableau de bord",
+      "BADGE": "Nouvelle",
+      "LIST": {
+        "ANALYTICS": "Analytique",
+        "CRM": "GRC",
+        "ECOMMERCE": "Commerce électronique",
+        "CRYPTO": "Crypto",
+        "PROJECTS": "Projets",
+        "NFT": "NFT",
+        "JOB":"TRAVAIL"
+      }
+    },
+    "APPS": {
+      "TEXT": "applications",
+      "LIST": {
+        "CALENDAR": "Calendrier",
+        "CHAT": "Discuter",
+        "EMAIL": "E-mail",
+        "MAILBOX": "Boites aux lettres",
+        "MAILTEMPLATES": "Modèles d'e-mails",
+        "BASICACTION": "Action de base",
+        "ECOMMERCEACTION": "Action de commerce électronique",
+        "ECOMMERCE": "Commerce électronique",
+        "PRODUCTS": "Des produits",
+        "PRODUCTDETAILS": "détails du produit",
+        "CREATEPRODUCT": "Créer un produit",
+        "ORDERS": "Ordres",
+        "ORDERDETAILS": "détails de la commande",
+        "CUSTOMERS": "Les clients",
+        "SHOPPINGCART": "Panier",
+        "CHECKOUT": "Vérifier",
+        "SELLERS": "Les vendeurs",
+        "SELLERDETAILS": "Détails du vendeur",
+        "PROJECTS": "Projets",
+        "LIST": "Lister",
+        "OVERVIEW": "Aperçu",
+        "CREATEPROJECT": "Créer un projet",
+        "TASK": "Tâches",
+        "KANBANBOARD": "Tableau Kanban",
+        "LISTVIEW": "Affichage de liste",
+        "TASKDETAILS": "Détails de la tâche",
+        "CRM": "GRC",
+        "CONTACTS": "Contacts",
+        "COMPANIES": "Entreprises",
+        "DEALS": "Offres",
+        "LEADS": "Pistes",
+        "CRYPTO": "Crypto",
+        "TRANSACTIONS": "Transactions",
+        "BUY&SELL": "Acheter vendre",
+        "MYWALLET": "Mon portefeuille",
+        "ICOLIST": "Liste des OIC",
+        "KYCAPPLICATION": "Demande de connaissance du client",
+        "INVOICES": "Factures",
+        "DETAILS": "Des détails",
+        "CREATEINVOICE": "Créer une facture",
+        "SUPPORTTICKETS": "Billets d'assistance",
+        "TICKETDETAILS": "Détails du billet",
+        "NFTMARKETPLACE": "Marché NFT",
+        "MARKETPLACE": "Marché",
+        "EXPLORENOW": "Explorez maintenant",
+        "LIVEAUCTION": "Enchère en direct",
+        "ITEMDETAILS": "Détails de l'article",
+        "COLLECTIONS": "Collections",
+        "CREATORS": "Créatrices",
+        "RANKING": "Classement",
+        "WALLETCONNECT": "Portefeuille Connect",
+        "CREATENFT": "Créer NFT",
+        "FILEMANAGER": "Gestionnaire de fichiers",
+        "TODO": "Faire",
+        "JOBS":"Travaux",
+        "STATISTICS":"Statistiques",
+        "JOBLISTS":"Listes de tâches",
+        "GRID":"Grille",
+        "CANDIDATELISTS":"Liste des candidats",
+        "GRIDVIEW":"Vue Grille",
+        "APPLICATION":"Application",
+        "NEWJOB":"Nouveau travail",
+        "COMPANIESLIST":"Liste des entreprises",
+        "JOBCATEGORIES":"Catégories d'emploi",
+        "APIKEY":"Clé API"
+      }
+    },
+    "LAYOUTS": {
+      "TEXT": "Dispositions",
+      "LIST": {
+        "HORIZONTAL": "Horizontal",
+        "DETACHED": "Détaché",
+        "TWOCOLUMN": "Deux colonnes",
+        "HOVERED": "Survolé"
+      }
+    },
+    "PAGES": {
+      "TEXT": "pages"
+    },
+    "AUTHENTICATION": {
+      "TEXT": "Authentification",
+      "LIST": {
+        "BASIC": "De base",
+        "COVER": "Couverture",
+        "SIGNIN": "S'identifier",
+        "SIGNUP": "S'inscrire",
+        "PASSWORDRESET": "Réinitialisation du mot de passe",
+        "PASSWORDCREATE": "Créer un mot de passe",
+        "LOCKSCREEN": "Écran verrouillé",
+        "LOGOUT": "Se déconnecter",
+        "SUCCESSMESSAGE": "Message de réussite",
+        "TWOSTEPVERIFICATION": "Vérification en deux étapes",
+        "ERRORS": "les erreurs",
+        "404BASIC": "404 de base",
+        "404COVER": "404 Couverture",
+        "404ALT": "404 Autre",
+        "500": "500",
+        "OFFLINE": "Hors ligne"
+      }
+    },
+    "PAGES": {
+      "TEXT": "pages",
+      "LIST": {
+        "STARTER": "Entrée",
+        "PROFILE": "Profil",
+        "SIMPLEPAGE": "Page simplifiée",
+        "SETTINGS": "Réglages",
+        "TEAM": "Équipe",
+        "TIMELINE": "Chronologie",
+        "FAQS": "FAQ",
+        "PRICING": "Tarification",
+        "GALLERY": "Galerie",
+        "MAINTENANCE": "Maintenance",
+        "COMINGSOON": "À venir",
+        "SITEMAP": "Plan du site",
+        "SEARCHRESULTS": "Résultats de recherche",
+        "PRIVACYPOLICY":"Politique de confidentialité",
+        "TERMS&CONDITIONS":"Conditions générales"
+      }
+    },
+    "LANDING": {
+      "TEXT": "Un atterrissage",
+      "LIST": {
+        "ONEPAGE": "Une page",
+        "NFTLANDING": "Atterrissage NFT",
+        "JOB":"TRAVAIL"
+      }
+    },
+    "COMPONENTS": {
+      "TEXT": "Composants"
+    },
+    "BASEUI": {
+      "TEXT": "Interface utilisateur de base",
+      "LIST": {
+        "ALERTS": "Alertes",
+        "BADGES": "Insignes",
+        "BUTTONS": "Boutons",
+        "COLORS": "Couleurs",
+        "CARDS": "Cartes",
+        "CAROUSEL": "Carrousel",
+        "DROPDOWNS": "Listes déroulantes",
+        "GRID": "Grille",
+        "IMAGES": "Images",
+        "TABS": "Onglets",
+        "ACCORDION&COLLAPSE": "Accordéon et effondrement",
+        "MODALS": "Modaux",
+        "OFFCANVAS": "Hors toile",
+        "PLACEHOLDERS": "Espaces réservés",
+        "PROGRESS": "Le progrès",
+        "NOTIFICATIONS": "Avis",
+        "MEDIAOBJECT": "Objet multimédia",
+        "EMBEDVIDEO": "Intégrer la vidéo",
+        "TYPOGRAPHY": "Typographie",
+        "LISTS": "Listes",
+        "GENERAL": "Général",
+        "RIBBONS": "Rubans",
+        "UTILITIES": "Utilitaires"
+      }
+    },
+    "ADVANCEUI": {
+      "TEXT": "Interface utilisateur avancée",
+      "BADGE": "Nouvelle",
+      "LIST": {
+        "SWEETALERTS": "Alertes sucrées",
+        "NESTABLELIST": "Liste imbriquée",
+        "SCROLLBAR": "Barre de défilement",
+        "ANIMATION": "Animation",
+        "TOUR": "Visiter",
+        "SWIPERSLIDER": "Glissière Curseur",
+        "RATTINGS": "Notes",
+        "HIGHLIGHT": "Surligner",
+        "SCROLLSPY": "DéfilementEspion"
+      }
+    },
+    "WIDGETS": {
+      "TEXT": "Widget"
+    },
+    "FORMS": {
+      "TEXT": "Formes",
+      "LIST": {
+        "BASICELEMENTS": "Éléments basiques",
+        "FORMSELECT": "Sélection de formulaire",
+        "CHECKBOXS&RADIOS": "Cases à cocher et radios",
+        "PICKERS": "Cueilleurs",
+        "INPUTMASKS": "Masques de saisie",
+        "ADVANCED": "Avancée",
+        "RANGESLIDER": "Curseur de plage",
+        "VALIDATION": "Validation",
+        "WIZARD": "sorcier",
+        "EDITORS": "Éditeurs",
+        "FILEUPLOADS": "Téléchargements de fichiers",
+        "FORMLAYOUTS": "Dispositions de formulaire"
+      }
+    },
+    "TABLES": {
+      "TEXT": "les tables",
+      "LIST": {
+        "BASICTABLES": "Tableaux de base",
+        "GRIDJS": "Grille Js",
+        "LISTJS": "Liste J",
+        "DATATABLES": "Tableaux de données"
+      }
+    },
+    "CHARTS": {
+      "TEXT": "Graphiques",
+      "LIST": {
+        "APEXCHARTS": "Apexchart",
+        "LINE": "Ligne",
+        "AREA": "Région",
+        "COLUMN": "Colonne",
+        "BAR": "Bar",
+        "MIXED": "Mixte",
+        "TIMELINE": "Chronologie",
+        "CANDLSTICK": "Chandelier",
+        "BOXPLOT": "Boîte à moustaches",
+        "BUBBLE": "Bulle",
+        "SCATTER": "Dispersion",
+        "HEATMAP": "Carte de chaleur",
+        "TREEMAP": "Treemap",
+        "PIE": "Tarte",
+        "RADIALBAR": "Barre radiale",
+        "RADAR": "Radar",
+        "POLARAREA": "Zone polaire",
+        "CHARTJS": "Graphiques",
+        "ECHARTS": "Cartes électroniques"
+      }
+    },
+    "ICONS": {
+      "TEXT": "Icônes",
+      "LIST": {
+        "REMIX": "Remixer",
+        "BOXICONS": "Boxicons",
+        "MATERIALDESIGN": "Conception matérielle",
+        "LINEAWESOME": "Ligne Génial",
+        "FEATHER": "La plume",
+        "CRYPTOSVG": "Crypto SVG"
+      }
+    },
+    "MAPS": {
+      "TEXT": "Plans",
+      "LIST": {
+        "GOOGLE": "Google",
+        "VECTOR": "Vecteur",
+        "LEAFLET": "Brochure"
+      }
+    },
+    "MULTILEVEL": {
+      "TEXT": "Multi-niveaux",
+      "LIST": {
+        "LEVEL1": {
+          "1": "Niveau 1.1",
+          "2": "Niveau 1.2",
+          "LEVEL2": {
+            "1": "Niveau 2.1",
+            "2": "Niveau 2.2"
+          }
+        }
+      }
+    }
+  }
+}

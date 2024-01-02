@@ -1,0 +1,287 @@
+{
+  "HEADER": {
+    "MORE": {
+      "TEXT": "Mehr"
+    }
+  },
+  "MENUITEMS": {
+    "MENU": {
+      "TEXT": "SPEISEKARTE"
+    },
+    "DASHBOARD": {
+      "TEXT": "Armaturenbrett",
+      "BADGE": "Neu",
+      "LIST": {
+        "ANALYTICS": "Analytik",
+        "CRM": "CRM",
+        "ECOMMERCE": "E-Commerce",
+        "CRYPTO": "Krypto",
+        "PROJECTS": "Projekte",
+        "NFT": "NFT",
+        "JOB":"ARBEIT"
+      }
+    },
+    "APPS": {
+      "TEXT": "Anwendungen",
+      "LIST": {
+        "CALENDAR": "Kalender",
+        "CHAT": "Plaudern",
+        "EMAIL": "Email",
+        "MAILBOX": "Briefkasten",
+        "MAILTEMPLATES": "E-Mail-Vorlagen",
+        "BASICACTION": "Basic Action",
+        "ECOMMERCEACTION": "Grundlegende Aktion",
+        "ECOMMERCE": "E-Commerce",
+        "PRODUCTS": "Produkte",
+        "PRODUCTDETAILS": "Produktdetails",
+        "CREATEPRODUCT": "Produkt erstellen",
+        "ORDERS": "Aufträge",
+        "ORDERDETAILS": "Bestelldetails",
+        "CUSTOMERS": "Kunden",
+        "SHOPPINGCART": "Einkaufswagen",
+        "CHECKOUT": "Kasse",
+        "SELLERS": "Verkäufer",
+        "SELLERDETAILS": "Verkäuferdetails",
+        "PROJECTS": "Projekte",
+        "LIST": "Liste",
+        "OVERVIEW": "Überblick",
+        "CREATEPROJECT": "Projekt erstellen",
+        "TASK": "Aufgaben",
+        "KANBANBOARD": "Kanban-Board",
+        "LISTVIEW": "Listenansicht",
+        "TASKDETAILS": "Aufgabendetails",
+        "CRM": "CRM",
+        "CONTACTS": "Kontakte",
+        "COMPANIES": "Firmen",
+        "DEALS": "Angebote",
+        "LEADS": "Führt",
+        "CRYPTO": "Krypto",
+        "TRANSACTIONS": "Transaktionen",
+        "BUY&SELL": "Kaufen Verkaufen",
+        "MYWALLET": "Mein Geldbeutel",
+        "ICOLIST": "ICO-Liste",
+        "KYCAPPLICATION": "KYC-Anwendung",
+        "INVOICES": "Rechnungen",
+        "DETAILS": "Einzelheiten",
+        "CREATEINVOICE": "Rechnung erstellen",
+        "SUPPORTTICKETS": "Support-Tickets",
+        "TICKETDETAILS": "Ticketdetails",
+        "NFTMARKETPLACE": "NFT-Marktplatz",
+        "MARKETPLACE": "Marktplatz",
+        "EXPLORENOW": "Jetzt erkunden",
+        "LIVEAUCTION": "Live-Auktion",
+        "ITEMDETAILS": "Artikeldetails",
+        "COLLECTIONS": "Sammlungen",
+        "CREATORS": "Schöpfer",
+        "RANKING": "Rangfolge",
+        "WALLETCONNECT": "Wallet Connect",
+        "CREATENFT": "NFT erstellen",
+        "FILEMANAGER": "Dateimanager",
+        "TODO": "Machen",
+        "JOBS":"ARBEITSPLÄTZE",
+        "STATISTICS":"STATISTIKEN",
+        "JOBLISTS":"JOBLISTEN",
+        "GRID":"Netz",
+        "CANDIDATELISTS":"Kandidatenliste",
+        "GRIDVIEW":"Rasteransicht",
+        "APPLICATION":"Anwendung",
+        "NEWJOB":"Neue Arbeit",
+        "COMPANIESLIST":"Firmenliste",
+        "JOBCATEGORIES":"Berufskategorien",
+        "APIKEY":"API-Schlüssel"
+      }
+    },
+    "LAYOUTS": {
+      "TEXT": "Grundrisse",
+      "LIST": {
+        "HORIZONTAL": "Horizontal",
+        "DETACHED": "Losgelöst",
+        "TWOCOLUMN": "Zweispaltig",
+        "HOVERED": "Schwebte"
+      }
+    },
+    "PAGES": {
+      "TEXT": "Seiten"
+    },
+    "AUTHENTICATION": {
+      "TEXT": "Authentifizierung",
+      "LIST": {
+        "BASIC": "Basic",
+        "COVER": "Abdeckung",
+        "SIGNIN": "Anmelden",
+        "SIGNUP": "Anmeldung",
+        "PASSWORDRESET": "Passwort zurücksetzen",
+        "PASSWORDCREATE": "Passwort erstellen",
+        "LOCKSCREEN": "Bildschirm sperren",
+        "LOGOUT": "Ausloggen",
+        "SUCCESSMESSAGE": "Erfolgsmeldung",
+        "TWOSTEPVERIFICATION": "Verifizierung in zwei Schritten",
+        "ERRORS": "Fehler",
+        "404BASIC": "404 Grundlegend",
+        "404COVER": "404 Abdeckung",
+        "404ALT": "404 Alt",
+        "500": "500",
+        "OFFLINE": "Offline-Seite"
+      }
+    },
+    "PAGES": {
+      "TEXT": "Seiten",
+      "LIST": {
+        "STARTER": "Anlasser",
+        "PROFILE": "Profil",
+        "SIMPLEPAGE": "Einfache Seite",
+        "SETTINGS": "Einstellungen",
+        "TEAM": "Mannschaft",
+        "TIMELINE": "Zeitleiste",
+        "FAQS": "Häufig gestellte Fragen",
+        "PRICING": "Preisgestaltung",
+        "GALLERY": "Galerie",
+        "MAINTENANCE": "Instandhaltung",
+        "COMINGSOON": "Kommt bald",
+        "SITEMAP": "Seitenverzeichnis",
+        "SEARCHRESULTS": "Suchergebnisse",
+        "PRIVACYPOLICY":"DATENSCHUTZ-BESTIMMUNGEN",
+        "TERMS&CONDITIONS":"TERMS & AMP; BEDINGUNGEN"
+      }
+    },
+    "LANDING": {
+      "TEXT": "Landung",
+      "LIST": {
+        "ONEPAGE": "Eine Seite",
+        "NFTLANDING": "NFT-Landung",
+        "JOB":"ARBEIT"
+      }
+    },
+    "COMPONENTS": {
+      "TEXT": "Komponenten"
+    },
+    "BASEUI": {
+      "TEXT": "Basis-Benutzeroberfläche",
+      "LIST": {
+        "ALERTS": "Warnungen",
+        "BADGES": "Abzeichen",
+        "BUTTONS": "Tasten",
+        "COLORS": "Farben",
+        "CARDS": "Karten",
+        "CAROUSEL": "Karussell",
+        "DROPDOWNS": "Dropdowns",
+        "GRID": "Netz",
+        "IMAGES": "Bilder",
+        "TABS": "Registerkarten",
+        "ACCORDION&COLLAPSE": "Akkordeon & Zusammenbruch",
+        "MODALS": "Modale",
+        "OFFCANVAS": "Leinwand",
+        "PLACEHOLDERS": "Platzhalter",
+        "PROGRESS": "Progress",
+        "NOTIFICATIONS": "Benachrichtigungen",
+        "MEDIAOBJECT": "Medienobjekt",
+        "EMBEDVIDEO": "Video einbetten",
+        "TYPOGRAPHY": "Typografie",
+        "LISTS": "Listen",
+        "GENERAL": "Allgemein",
+        "RIBBONS": "Bänder",
+        "UTILITIES": "Dienstprogramme"
+      }
+    },
+    "ADVANCEUI": {
+      "TEXT": "Erweiterte Benutzeroberfläche",
+      "BADGE": "Neu",
+      "LIST": {
+        "SWEETALERTS": "Süße Warnungen",
+        "NESTABLELIST": "Verschachtelbare Liste",
+        "SCROLLBAR": "Scrollleiste",
+        "ANIMATION": "Animation",
+        "TOUR": "Tour",
+        "SWIPERSLIDER": "Swiper-Schieberegler",
+        "RATTINGS": "Bewertungen",
+        "HIGHLIGHT": "Markieren",
+        "SCROLLSPY": "ScrollSpy"
+      }
+    },
+    "WIDGETS": {
+      "TEXT": "Widgets"
+    },
+    "FORMS": {
+      "TEXT": "Formen",
+      "LIST": {
+        "BASICELEMENTS": "Grundelemente",
+        "FORMSELECT": "Formular auswählen",
+        "CHECKBOXS&RADIOS": "Kontrollkästchen & Radios",
+        "PICKERS": "Pflücker",
+        "INPUTMASKS": "Eingabemasken",
+        "ADVANCED": "Fortschrittlich",
+        "RANGESLIDER": "Range-Schieberegler",
+        "VALIDATION": "Validierung",
+        "WIZARD": "Magier",
+        "EDITORS": "Redakteure",
+        "FILEUPLOADS": "Datei-Uploads",
+        "FORMLAYOUTS": "Formularlayouts"
+      }
+    },
+    "TABLES": {
+      "TEXT": "Tische",
+      "LIST": {
+        "BASICTABLES": "Grundlegende Tabellen",
+        "GRIDJS": "Gitter Js",
+        "LISTJS": "Liste Js",
+        "DATATABLES": "Datentabellen"
+      }
+    },
+    "CHARTS": {
+      "TEXT": "Diagramme",
+      "LIST": {
+        "APEXCHARTS": "Apexcharts",
+        "LINE": "Linie",
+        "AREA": "Bereich",
+        "COLUMN": "Spalte",
+        "BAR": "Bar",
+        "MIXED": "Gemischt",
+        "TIMELINE": "Zeitleiste",
+        "CANDLSTICK": "Kerzenhalter",
+        "BOXPLOT": "Box-Plot",
+        "BUBBLE": "Blase",
+        "SCATTER": "Streuen",
+        "HEATMAP": "Heatmap",
+        "TREEMAP": "Baumkarte",
+        "PIE": "Kuchen",
+        "RADIALBAR": "Radialbar",
+        "RADAR": "Radar",
+        "POLARAREA": "Polargebiet",
+        "CHARTJS": "Chartjs",
+        "ECHARTS": "Diagramme"
+      }
+    },
+    "ICONS": {
+      "TEXT": "Symbole",
+      "LIST": {
+        "REMIX": "Remix",
+        "BOXICONS": "Boxicons",
+        "MATERIALDESIGN": "Material Design",
+        "LINEAWESOME": "Linie Super",
+        "FEATHER": "Feder",
+        "CRYPTOSVG": "Krypto-SVG"
+      }
+    },
+    "MAPS": {
+      "TEXT": "Karten",
+      "LIST": {
+        "GOOGLE": "Google",
+        "VECTOR": "Vektor",
+        "LEAFLET": "Flugblatt"
+      }
+    },
+    "MULTILEVEL": {
+      "TEXT": "Mehrstufig",
+      "LIST": {
+        "LEVEL1": {
+          "1": "Stufe 1.1",
+          "2": "Stufe 1.2",
+          "LEVEL2": {
+            "1": "Stufe 2.1",
+            "2": "Stufe 2.2"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "HEADER": {
+    "MORE": {
+      "TEXT": "Более"
+    }
+  },
+  "MENUITEMS": {
+    "MENU": {
+      "TEXT": "МЕНЮ"
+    },
+    "DASHBOARD": {
+      "TEXT": "Панель приборов",
+      "BADGE": "Новый",
+      "LIST": {
+        "ANALYTICS": "Аналитика",
+        "CRM": "CRM",
+        "ECOMMERCE": "Электронная торговля",
+        "CRYPTO": "Крипто",
+        "PROJECTS": "Проекты",
+        "NFT": "NFT",
+        "JOB":"Работа"
+      }
+    },
+    "APPS": {
+      "TEXT": "Программы",
+      "LIST": {
+        "CALENDAR": "Календарь",
+        "CHAT": "Чат",
+        "EMAIL": "Эл. адрес",
+        "MAILBOX": "Почтовый ящик",
+        "MAILTEMPLATES": "Шаблоны электронной почты",
+        "BASICACTION": "Основное действие",
+        "ECOMMERCEACTION": "Действие электронной торговли",
+        "ECOMMERCE": "Электронная торговля",
+        "PRODUCTS": "Продукты",
+        "PRODUCTDETAILS": "информация о продукте",
+        "CREATEPRODUCT": "Создать продукт",
+        "ORDERS": "Заказы",
+        "ORDERDETAILS": "Информация для заказа",
+        "CUSTOMERS": "Клиенты",
+        "SHOPPINGCART": "Корзина",
+        "CHECKOUT": "Проверить",
+        "SELLERS": "Продавцы",
+        "SELLERDETAILS": "Сведения о продавце",
+        "PROJECTS": "Проекты",
+        "LIST": "Список",
+        "OVERVIEW": "Обзор",
+        "CREATEPROJECT": "Создать проект",
+        "TASK": "Задачи",
+        "KANBANBOARD": "Канбан-доска",
+        "LISTVIEW": "Посмотреть список",
+        "TASKDETAILS": "Сведения о задаче",
+        "CRM": "CRM",
+        "CONTACTS": "Контакты",
+        "COMPANIES": "Компании",
+        "DEALS": "Предложения",
+        "LEADS": "Ведет",
+        "CRYPTO": "Крипто",
+        "TRANSACTIONS": "Транзакции",
+        "BUY&SELL": "Купи продай",
+        "MYWALLET": "Мой бумажник",
+        "ICOLIST": "Список ICO",
+        "KYCAPPLICATION": "Приложение ЗСК",
+        "INVOICES": "Счета",
+        "DETAILS": "Подробности",
+        "CREATEINVOICE": "Создать счет",
+        "SUPPORTTICKETS": "Билеты в службу поддержки",
+        "TICKETDETAILS": "Детали билета",
+        "NFTMARKETPLACE": "Торговая площадка NFT",
+        "MARKETPLACE": "Торговая площадка",
+        "EXPLORENOW": "Исследуйте сейчас",
+        "LIVEAUCTION": "Живой аукцион",
+        "ITEMDETAILS": "Детали товара",
+        "COLLECTIONS": "Коллекции",
+        "CREATORS": "Создатели",
+        "RANKING": "Рейтинг",
+        "WALLETCONNECT": "Подключить кошелек",
+        "CREATENFT": "Создать NFT",
+        "FILEMANAGER": "Файловый менеджер",
+        "TODO": "Сделать",
+        "JOBS":"Работа",
+        "STATISTICS":"Статистика",
+        "JOBLISTS":"Списки вакансий",
+        "GRID":"Сетка",
+        "CANDIDATELISTS":"Список кандидатов",
+        "GRIDVIEW":"Вид сетки",
+        "APPLICATION":"Заявление",
+        "NEWJOB":"Новая работа",
+        "COMPANIESLIST":"Список компаний",
+        "JOBCATEGORIES":"Категории работы",
+        "APIKEY":"API-ключ"
+      }
+    },
+    "LAYOUTS": {
+      "TEXT": "Макеты",
+      "LIST": {
+        "HORIZONTAL": "Горизонтальный",
+        "DETACHED": "Отдельный",
+        "TWOCOLUMN": "Две колонки",
+        "HOVERED": "Парит"
+      }
+    },
+    "PAGES": {
+      "TEXT": "Страницы"
+    },
+    "AUTHENTICATION": {
+      "TEXT": "Аутентификация",
+      "LIST": {
+        "BASIC": "Базовый",
+        "COVER": "Покрытие",
+        "SIGNIN": "Войти",
+        "SIGNUP": "Зарегистрироваться",
+        "PASSWORDRESET": "Сброс пароля",
+        "PASSWORDCREATE": "Пароль Создать",
+        "LOCKSCREEN": "Экран блокировки",
+        "LOGOUT": "Выйти",
+        "SUCCESSMESSAGE": "Сообщение об успехе",
+        "TWOSTEPVERIFICATION": "Двухэтапная проверка",
+        "ERRORS": "Ошибки",
+        "404BASIC": "404 Базовый",
+        "404COVER": "404 Обложка",
+        "404ALT": "404 Альт.",
+        "500": "500",
+        "OFFLINE": "Офлайн-страница"
+      }
+    },
+    "PAGES": {
+      "TEXT": "Страницы",
+      "LIST": {
+        "STARTER": "Стартер",
+        "PROFILE": "Профиль",
+        "SIMPLEPAGE": "Простая страница",
+        "SETTINGS": "Настройки",
+        "TEAM": "Команда",
+        "TIMELINE": "Лента новостей",
+        "FAQS": "Часто задаваемые вопросы",
+        "PRICING": "Цены",
+        "GALLERY": "Галерея",
+        "MAINTENANCE": "Обслуживание",
+        "COMINGSOON": "Вскоре",
+        "SITEMAP": "Карта сайта",
+        "SEARCHRESULTS": "результаты поиска",
+        "PRIVACYPOLICY":"Политика конфиденциальности",
+        "TERMS&CONDITIONS":"Срок и условия"
+      }
+    },
+    "LANDING": {
+      "TEXT": "Посадка",
+      "LIST": {
+        "ONEPAGE": "Одна страница",
+        "NFTLANDING": "Посадка NFT",
+        "JOB":"Работа"
+      }
+    },
+    "COMPONENTS": {
+      "TEXT": "Компоненты"
+    },
+    "BASEUI": {
+      "TEXT": "Базовый интерфейс",
+      "LIST": {
+        "ALERTS": "Оповещения",
+        "BADGES": "Значки",
+        "BUTTONS": "Кнопки",
+        "COLORS": "Цвета",
+        "CARDS": "Карты",
+        "CAROUSEL": "Карусель",
+        "DROPDOWNS": "Выпадающие списки",
+        "GRID": "Сетка",
+        "IMAGES": "Картинки",
+        "TABS": "Вкладки",
+        "ACCORDION&COLLAPSE": "Аккордеон и свернуть",
+        "MODALS": "Модальные",
+        "OFFCANVAS": "Offcanvas",
+        "PLACEHOLDERS": "Заполнители",
+        "PROGRESS": "Прогресс",
+        "NOTIFICATIONS": "Уведомления",
+        "MEDIAOBJECT": "Медиа объект",
+        "EMBEDVIDEO": "Встроить видео",
+        "TYPOGRAPHY": "Типография",
+        "LISTS": "Списки",
+        "GENERAL": "Общий",
+        "RIBBONS": "ленты",
+        "UTILITIES": "Утилиты"
+      }
+    },
+    "ADVANCEUI": {
+      "TEXT": "Расширенный пользовательский интерфейс",
+      "BADGE": "Новый",
+      "LIST": {
+        "SWEETALERTS": "Сладкие оповещения",
+        "NESTABLELIST": "Вложенный список",
+        "SCROLLBAR": "Полоса прокрутки",
+        "ANIMATION": "Анимация",
+        "TOUR": "Тур",
+        "SWIPERSLIDER": "Слайдер Swiper",
+        "RATTINGS": "Рейтинги",
+        "HIGHLIGHT": "Выделять",
+        "SCROLLSPY": "ScrollSpy"
+      }
+    },
+    "WIDGETS": {
+      "TEXT": "Виджеты"
+    },
+    "FORMS": {
+      "TEXT": "Формы",
+      "LIST": {
+        "BASICELEMENTS": "Основные элементы",
+        "FORMSELECT": "Выбор формы",
+        "CHECKBOXS&RADIOS": "Флажки и радио",
+        "PICKERS": "Сборщики",
+        "INPUTMASKS": "Маски ввода",
+        "ADVANCED": "Передовой",
+        "RANGESLIDER": "Ползунок диапазона",
+        "VALIDATION": "Проверка",
+        "WIZARD": "волшебник",
+        "EDITORS": "Редакторы",
+        "FILEUPLOADS": "Загрузка файлов",
+        "FORMLAYOUTS": "Макеты форм"
+      }
+    },
+    "TABLES": {
+      "TEXT": "Столы",
+      "LIST": {
+        "BASICTABLES": "Основные таблицы",
+        "GRIDJS": "Сетка Js",
+        "LISTJS": "Список Js",
+        "DATATABLES": "Таблицы данных"
+      }
+    },
+    "CHARTS": {
+      "TEXT": "Графики",
+      "LIST": {
+        "APEXCHARTS": "Апексчарты",
+        "LINE": "Линия",
+        "AREA": "Площадь",
+        "COLUMN": "Столбец",
+        "BAR": "Бар",
+        "MIXED": "Смешанный",
+        "TIMELINE": "Лента новостей",
+        "CANDLSTICK": "Подсвечник",
+        "BOXPLOT": "Блочная диаграмма",
+        "BUBBLE": "Пузырь",
+        "SCATTER": "Разброс",
+        "HEATMAP": "Тепловая карта",
+        "TREEMAP": "Древовидная карта",
+        "PIE": "пирог",
+        "RADIALBAR": "Радиальная полоса",
+        "RADAR": "Радар",
+        "POLARAREA": "Полярный район",
+        "CHARTJS": "Графики",
+        "ECHARTS": "электронные карты"
+      }
+    },
+    "ICONS": {
+      "TEXT": "Иконки",
+      "LIST": {
+        "REMIX": "Ремикс",
+        "BOXICONS": "Боксиконы",
+        "MATERIALDESIGN": "Материальный дизайн",
+        "LINEAWESOME": "Линия Потрясающая",
+        "FEATHER": "Перо",
+        "CRYPTOSVG": "Крипто SVG"
+      }
+    },
+    "MAPS": {
+      "TEXT": "Карты",
+      "LIST": {
+        "GOOGLE": "Google",
+        "VECTOR": "Вектор",
+        "LEAFLET": "Листовка"
+      }
+    },
+    "MULTILEVEL": {
+      "TEXT": "Многоуровневый",
+      "LIST": {
+        "LEVEL1": {
+          "1": "Уровень 1.1",
+          "2": "Уровень 1.2",
+          "LEVEL2": {
+            "1": "Уровень 2.1",
+            "2": "Уровень 2.2"
+          }
+        }
+      }
+    }
+  }
+}
